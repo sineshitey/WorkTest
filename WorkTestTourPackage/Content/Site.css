@@ -1,0 +1,50 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family:'Century Gothic';
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family:'Century Gothic';
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/*Add Header Image, overwrite bootstrap.css*/
+.navbar-inverse {
+  background-color: #222222;
+  border-color: #080808;
+  display: inline-block;
+  background-image : url('~/Content/Images/HeaderWeb.jpg')
+}
+
+/*Change hover color, overwrite bootstrap.css*/
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+  background-color: #79a3db;
+}
+
+.table{
+    font-size:20px;
+}
+
+/*Use button-like link design, overwrite bootstrap.css*/
+.btn{
+    width:100px;
+}

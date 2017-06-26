@@ -1,0 +1,15 @@
+﻿@model IEnumerable<WT.TourPackageModels.TourPackageModel>
+@{
+    ViewBag.Title = "GetDestinationList";
+}
+<h2 class="body-content">Explore Philippines! Where would you want to go?</h2>
+<table class="table > thead > tr > th table-hover">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="btn btn-default">
+                @Html.ActionLink(item.DestinationName, "GetPackagePerDestination", new { destinationID = item.DestinationID })
+            </td>
+        </tr>
+    }
+</table>

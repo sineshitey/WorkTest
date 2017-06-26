@@ -1,0 +1,16 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageBL.dll.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageBL.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageBL.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageDL.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageEntities.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageModels.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageEF.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageDL.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageEntities.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageModels.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\WT.TourPackageEF.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\obj\Debug\WT.TourPackageBL.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\obj\Debug\WT.TourPackageBL.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageBL\obj\Debug\WT.TourPackageBL.pdb

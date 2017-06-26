@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageDL.dll.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageDL.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageDL.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageEF.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageEntities.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageEF.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\WT.TourPackageEntities.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\obj\Debug\WT.TourPackageDL.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\obj\Debug\WT.TourPackageDL.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageDL\obj\Debug\WT.TourPackageDL.pdb

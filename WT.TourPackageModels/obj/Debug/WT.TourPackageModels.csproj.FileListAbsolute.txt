@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageModels\bin\Debug\WT.TourPackageModels.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageModels\bin\Debug\WT.TourPackageModels.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageModels\obj\Debug\WT.TourPackageModels.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageModels\obj\Debug\WT.TourPackageModels.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WorkTestTourPackage\WT.TourPackageModels\obj\Debug\WT.TourPackageModels.csprojResolveAssemblyReference.cache
